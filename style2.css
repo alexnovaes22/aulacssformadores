@@ -1,0 +1,21 @@
+abody {
+	background-color: bisque;
+}
+p{
+	text-align: center;
+	font-size: 28px;
+}
+
+h1, h2, h3 {
+    background-color: #FF0000;
+    color: white;
+}
+
+p b {
+	color: #FF0000;
+}
+
+h1 {background-color: coral;
+
+
+}
